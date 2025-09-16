@@ -2,9 +2,9 @@ name: NodeJS with Grunt
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "demo" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "demo" ]
 
 jobs:
   build:
